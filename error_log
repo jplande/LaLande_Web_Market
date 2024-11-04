@@ -1,0 +1,5 @@
+[18-May-2020 11:17:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/x2zvgtmdzbpi/public_html/Lalande_essahel/connection.php on line 8
+[18-May-2020 11:33:43 UTC] PHP Notice:  Undefined index: email in /home/x2zvgtmdzbpi/public_html/Lalande_essahel/checkout.php on line 11
+[18-May-2020 12:58:55 UTC] PHP Notice:  Undefined index: email in /home/x2zvgtmdzbpi/public_html/Lalande_essahel/checkout.php on line 11
+[18-May-2020 13:10:28 UTC] PHP Notice:  Undefined index: email in /home/x2zvgtmdzbpi/public_html/Lalande_essahel/checkout.php on line 11
+[18-May-2020 13:10:40 UTC] PHP Notice:  Undefined index: email in /home/x2zvgtmdzbpi/public_html/Lalande_essahel/checkout.php on line 11
